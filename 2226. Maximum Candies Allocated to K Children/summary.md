@@ -1,0 +1,3 @@
+First of all, I don't see anything in this. So its numeration, either by backtracking or by binary searching. Intuitively, this is binary searching.
+
+The accurate explanation is as follows. If a distribution of x is impossible, then all values exceeding x is impossible. If a distribution of x is possible, then all values less than x is possible. This presents the monotonic property of the possible solution space which implies that binary search is possible.
