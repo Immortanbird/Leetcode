@@ -1,0 +1,1 @@
+Typical DFS problem. Can be accelerated by counting the frequency of characters, so that in some cases you can know it's false before DFS starts.

@@ -1,0 +1,1 @@
+Easy to solve recursively but do not forget it can be solved iteratively with the help of stack.
