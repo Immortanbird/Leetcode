@@ -1,0 +1,1 @@
+Always buy, the difference is which day to sell. If selling tomorrow gurantees profit, then sell tomorrow. Otherwise, sell on the same day.
